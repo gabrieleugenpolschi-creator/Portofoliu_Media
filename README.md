@@ -9,4 +9,4 @@ Site: https://gabrieleugenpolschi-creator.github.io/portofoliu-media/
 | Nr. | Lucrarea | Folder |
 |:---:|----------|--------|
 | 1 | Afiș A3 – Ziua Porților Deschise | [tema-01-afis](tema-01-afis) |
-| 2 | Pliant A4 în trei | [tema-02-pliant](tema-02-pliant) |
+| 2 | Pliant A4 în trei | [tema-02-pliant](Birds-for-Beginners.jpg) |
